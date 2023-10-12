@@ -1,4 +1,5 @@
 # python-api-challenge
+#CODE LOCATED IN THE WEATHERPY FOLDER IN THE WEATHER.PY JUPYTER NOTEBOOK AND VACATION.PY JUPYTER NOTEBOOK. Thank you!
 Requirements
 The requirements for "Part 1: WeatherPy" are the following
 Create Plots to Showcase the Relationship Between Weather Variables and Latitude (30 points)
